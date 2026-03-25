@@ -1,0 +1,5 @@
+{
+  "name": "Claw Miner",
+  "description": "A physics-based claw machine game with a fishing-style tension mini-game.",
+  "requestFramePermissions": []
+}
